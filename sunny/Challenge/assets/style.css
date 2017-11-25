@@ -1,0 +1,67 @@
+body{
+	font-family: serif;
+}
+
+table{
+	width: 100%;
+	border: 1px;
+	text-align: left;
+}
+
+.homepage{
+	color: white;
+}
+
+th{
+	text-align: left;
+	vertical-align: top;
+	padding-left:20px;
+	padding-top:5px;
+	padding-bottom:5px;
+	background-color:rgb(255, 217, 71);
+}
+
+td{
+	vertical-align: top;
+	font-size: 19px;
+	padding-right: 5px;
+	padding-left: 5px;
+}
+
+button{
+	color: white;
+	width:180px;
+	text-align:left;
+	background-color:green;
+	border: none;
+}
+
+.left-bar{
+	width: 180px;
+	vertical-align: top;
+}
+
+.stylesheet1{
+	color: white;
+	background-color: rgb(113,225,71);
+}
+
+.middle{
+	padding-left: 10px;
+	padding-right: 10px;
+}
+
+.sidebar{
+	padding-left: 20px;
+	padding-right: 20px;
+	padding-top:10px;
+	background-color:DodgerBlue;
+	color:white;
+	width: 250px;
+	height: 500px;
+}
+
+span{
+	font-size: 10px;
+	color:rgb(255, 241, 0);
+}

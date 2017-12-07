@@ -1,0 +1,25 @@
+table{
+	width: 60%;
+	table-layout: fixed;
+
+}
+th,td,tr{
+	border: none;
+	border-width: 1px;
+
+}
+.good{
+	text-align: left;
+	font-size: 25px;
+}
+p{
+	color: white;
+	text-align: left;
+}
+.nice{
+	text-align: left;
+	font-size: 25px;
+}
+.fine{
+	color: black;
+}

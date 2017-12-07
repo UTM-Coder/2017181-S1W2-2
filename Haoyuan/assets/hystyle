@@ -1,0 +1,18 @@
+table{
+	width: 100%;
+	border: solid;
+	border-width: 1px;
+}
+th,td,tr{
+	text-align: center;
+	border: solid;
+	border-width:1px;
+}
+.skmo{
+	font-size: 20px;
+	height: 50px;
+}
+.skmi{
+	font-size: 20px;
+	height: 50px;
+}

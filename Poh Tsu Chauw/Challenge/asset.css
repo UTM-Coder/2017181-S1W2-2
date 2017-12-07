@@ -1,0 +1,39 @@
+table{
+	width: 100%;
+	border: 1px;
+
+}
+
+.homepage{
+	color: white;
+	background-color: green;
+}
+
+
+td{
+	vertical-align: top;
+	font-size: 20px;
+}
+button{
+	color: black;
+	width:180px;
+	text-align:left;
+	background-color:yellow;
+	border: solid;
+}
+
+
+
+.stylesheet1{
+	color: black;
+	background-color: yellow;
+	border: solid;
+}
+
+
+.right{
+	background-color:yellow;
+	color:black;
+	width: 100px;
+	height: 400px;
+}
